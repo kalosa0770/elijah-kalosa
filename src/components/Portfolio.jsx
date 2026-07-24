@@ -39,7 +39,7 @@ const Portfolio = () => {
   const milestones = [
     { id: '01', title: 'Ahbba Homes', subtitle: 'Secure infrastructure build', tag: 'DEVELOPMENT', year: '2025' },
     { id: '02', title: 'Builders of Consequence', subtitle: 'Editorial platform & manifesto', tag: 'DESIGN', year: '2025' },
-    { id: '03', title: 'Libco Zambia', subtitle: 'Corporate services platform', tag: 'DEVELOPMENT', year: '2024' },
+    { id: '03', title: 'Libco Zambia Ltd', subtitle: 'Corporate services platform', tag: 'DEVELOPMENT', year: '2024' },
     { id: '04', title: 'Portraits of Ambition', subtitle: 'Visual narrative & UX design', tag: 'ART DIRECTION', year: '2024' },
   ];
 
