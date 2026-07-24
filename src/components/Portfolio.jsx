@@ -139,7 +139,8 @@ const Portfolio = () => {
   };
 
   return (
-    <div className="min-h-screen bg-[#F2F0EA] text-[#131313] font-sans selection:bg-orange-200 overflow-x-hidden">
+
+    <div className="min-h-screen text-[#131313] font-sans selection:bg-orange-200 overflow-x-hidden w-full max-w-full">
 
       {/* --- NAVBAR --- */}
       <nav className="sticky top-0 z-50 bg-[#F2F0EA]/90 backdrop-blur-md border-b border-black/5">
