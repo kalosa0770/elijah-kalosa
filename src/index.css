@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  /* High-end typography pairing */
+  --font-serif: "Fraunces", serif;
+  --font-sans: "Inter", sans-serif;
+
+  /* Custom palette */
+  --color-brand-obsidian: #121212;
+  --color-brand-canvas: #fafafa;
+  --color-brand-stone: #666666;
+}
+
+/* Base styles for a clean editorial look */
+@layer base {
+  body {
+    @apply bg-brand-canvas text-brand-obsidian antialiased;
+  }
+}
