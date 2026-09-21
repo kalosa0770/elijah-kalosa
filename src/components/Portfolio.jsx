@@ -82,8 +82,8 @@ const Portfolio = () => {
     {
       title: 'Atmosphere Daily',
       tag: 'IN PROGRESS',
-      description: 'A publishing concept exploring daily-format editorial content.',
-      link: 'https://atmosphere-daily.vercel.app',
+      description: 'A daily news, devotion web application.',
+      link: 'https://atmospheredaily.com',
     },
     {
       title: 'Kabulonga Fitness Squad',
